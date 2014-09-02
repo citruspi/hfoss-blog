@@ -1,0 +1,31 @@
+First Flight
+
+IRC
+
+I already had IRC setup - I have a weechat instance running on a server. The
+instance is maintined through tmux and whwnver I want to use IRC I just SSH
+into the machine and attach to the tmux session.
+
+Blogging
+
+While thinking about my options for a blog I realized that I'm not happy with
+the exiting solutions, at least not in this case. They're all too complex.
+Therefore I've decided to just use .txt files in a directory with listing
+enabled. Updating it is as simple as
+
+ssh citruspi@178.79.143.155
+vim /srv/citruspi.io/hfossblog/newpost.txt
+
+GitHub
+
+I already have a GitHub presence at citrupi.
+
+Patch the Course Project
+
+Patching the course is the next thing to do. It should be pretty simple:
+
+git clone https://github.com/decause/hflossk.git
+vim scripts/people/2014/fall/citrupi.yaml
+git commit
+git origin add citruspi git@github.com:citruspi/hflossk
+git push citruspi master
