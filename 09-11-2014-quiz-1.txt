@@ -1,0 +1,60 @@
+Quiz I
+-------------------------------------------------------------------------------
+
+What are the titles of each pillar?
+
+    - Open Exchange
+    - Participation
+    - Rapid Prototyping
+    - Meritocracy
+    - Community
+
+What are the titles of each General Principle?
+
+    - Make it interesting and make sure it happens
+    - Scratch an Itch
+    - Minimize how many times you have to reinvent the wheel
+    - Solve problems through parallel work processes whenever possible
+    - Leverage the law of large numbers
+    - Document what you do
+    - Release early and release often
+    - Talk a lot
+
+What are the similarities between Weber's eight principles, and the five 
+pillars?
+
+    Weber's eight principles and the five pillars have much in common. The
+    eighth principle and the fifth pillar are both about community. In addition,
+    the third pillar and the seventh principle are essentially the same thing - 
+    release early, release often. 
+
+What are the differences?
+
+    Key differences between the pillars and the principles are that the
+    principles cover getting people interested ("Make it interesting and 
+    make sure it happens") whereas the pillars make the assumption that the
+    project already has followers who are motivated to get involved. In addition,
+    the principles don't cover meritocracy.
+
+Who's "keen analysis" did Weber "Draw Heavily" upon?"
+
+    Eric Raymond
+
+What was the title of this "keen analysis?"
+
+    The Cathedral and the Bazaar: Musings on Linux and Open Source by an 
+    Accidental Revolutionary
+
+Where can this keen analysis be found?
+
+    http://www.catb.org/~esr/writings/homesteading/cathedral-bazaar/index.html
+
+
+                           _________________ 
+                          < FOSS IS AWESOME >         
+                           ----------------- 
+                                  \   ^__^
+                                   \  (oo)\_______
+                                      (__)\       )\/\
+                                          ||----w |
+                                          ||     ||
