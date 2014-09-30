@@ -1,0 +1,63 @@
+Team Propoal
+------------------------------------------------------------------------------
+
+Members
+
+Name            Email               Role
+Kocsen          kocsenc@gmail.com   Developer, Documenter
+Mihir           ms8303@rit.edu      Developer, Documenter
+
+What project did your team choose?
+
+We chose to work on Gratipay.
+
+Two liner description of the project?
+
+Gratipay (formerly Gittip) is a way to give small weekly cash gifts to people 
+you love and are inspired by [mosty developers]. Gifts are weekly;public and 
+the intention is for people to depend on money received through Gratipay in 
+order to pay their bills, and bills are recurring.
+
+What will each team member's role be?
+
+See above.
+
+Source Code Repository URL?
+
+https://github.com/gratipay/gratipay.com
+
+Commarch Assignment
+
+In progress.
+
+Upstream Mentors:
+
+Name            Email
+TBD             TBD
+
+How will you communicate with them?
+
+- IRC Channel (#gratipay on freenode)
+- GitHub issues
+
+What are the easy parts?
+
+- Finding communication channels
+- Choosing a project
+- Writing up a conclusion of the projects health
+
+What are the hard parts?
+
+- Getting involved 
+- Running Git-by-a-truck/bus
+- Finding/Mining for relevant data regarding the project
+
+How will you overcome both?
+
+We will divide and conquer. Understanding that some points are harder will 
+show us that we have to work on it with a high priority. Documentation is 
+important to make sure we don’t step on each others toes. Tools like GDoc 
+and IRC help keep the work progress visible.
+
+And finally using awesome tools to help us get the data! (or write them ourselves).e
+
