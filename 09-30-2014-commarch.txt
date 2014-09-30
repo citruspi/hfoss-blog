@@ -1,0 +1,44 @@
+Community Architecture
+------------------------------------------------------------------------------
+
+0. Choose your team. We'll be doing this in class, and teams must be approved
+   by your instructor.
+
+   Mihir, Kocsen
+
+1. Choose a FOSS Project. You can use Ohloh.net and OpenHatch.org collect
+   general information on Free/Open Source projects (including games!). Selec
+   one active software project about which to write. Have an alternative handy
+   if you find that you cannot get much information about your first choice.
+   Project choices must be approved by your instructor.
+
+    Gratipay
+
+2. Follow the instructions included in the "Git By A Bus" repository on Github
+   
+3. Calculate your project's "Callaway Coefficient of Fail" using the rubric available here:
+
+   +30
+
+4. 
+    
+    A. Gratipay is a weekly gift exchange, helping to create a culture of generosity.
+    B. The initial commit was on Dec 5, 2011, the latest commit was 28 September, 2014.
+    C. There are 24 people in the Gratipay organization who can approve patches.
+    D. Over 119 people have contributed to the project.
+    E. Unknown
+    F. +30
+    G. Unsure
+    H. Chad Whitacre (@whit537)
+    I. Yes
+    J. 
+        a. Financial transactions outside of the United States
+        b. Security problems with Ghostery
+    K. Yes; more people are interested in open companies and supporting developers.
+    L. Yes; there are over 100 contributors who would keep the project alive.
+    M. Yes; there would still be over 80 contributors who would keep the project alive.
+    N. Yes; there's a guide for getting involved and contributing to the project.
+    O. Yes; Yes; No.
+    P. I'd contact any of the contributors over IRC or by filling an issue on GitHub.
+    Q. Consensus building; the entire company is open and everyone contributes equally.
+    R. Yes; it's a completely open company who makes a great product for supporting developers.
