@@ -1,0 +1,4 @@
+Last month we attended RocPy. ryansb graced us with his presence, mkaing the 
+trip up from Buffalo. The meetup itself wasn't particularly interesting and
+I didn't come away knowing something knew, but it was good to see the Python
+community (e.g. threebean) again.
