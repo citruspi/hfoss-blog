@@ -1,0 +1,72 @@
+Quiz 2 (04-12-2014)
+
+0) Expand on the following acronyms:
+
+- FOSS - Free and Open Source Software
+- OLPC - One Laptop Per Child
+- TL;DR - Too Long; Didn't Read
+- LGTM - Looks Good To Me
+- RTFM - Read the Fucking Manual
+- PEBKAC - Problems Exist Between Keyboard and Chair
+- LOL - Lots of Love
+
+1) Define the following instructional theories:
+
+- Didactic:
+
+    "Didactics is a theory of teaching, and in a wider sense, a theory and
+    practical application of teaching and learning... The theory of Didactic
+    Learning methods focuses on the baseline knowledge students possess and 
+    seeks to improve upon and convey this information. It also refers to the 
+    foundation or starting point in a lesson plan, where the overall goal is 
+    knowledge. A teacher or educator functions in this role as an authoritative 
+    figure, but also as both a guide and a resource for students." [0]
+
+- Dialectic:
+
+    Teachers guide stuents using questions and reasoning to bring them towards
+    a specific learning outcome.
+
+- Constructivist:
+
+    Facilitated by hands on experiences, constructivist has students learn by
+    making mental models of the world around them.
+
+- Multiple Intelligences
+
+    Different students learn differently. For example, instructors determine the
+    learning style of a student and then instruct them in a way that helps them.
+
+2) Describe the role of the instructor in each theory.
+
+- Didactic:
+
+    The instructor is the only one with knowledge; s/he then imparts it on
+    students
+
+- Dialectic
+
+    The instructor guides students with questions towards a specific outcome or
+    an understanding
+
+- Constructivist
+
+    The instructor facilitates the hands on learning
+
+- Multiple Intelligences:
+
+    The instructor accounts for different learning styles and incorporates them
+    in the classroom
+
+3) What are the key aspects of a lesson plan?
+
+- Methods
+- Evaluation
+- Objectives
+
+4) How does Sugar integrate and implement constructivist learning theory?
+
+Sugar implements constructivist learning theory by allows kids to feel like they
+own their education, thanks to the OLPC.
+
+[0] http://en.wikipedia.org/wiki/Didactic_method
