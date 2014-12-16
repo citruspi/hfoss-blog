@@ -1,0 +1,7 @@
+Squire
+
+Squire is an awesome open source editor released by my mail provider, Fastmail.
+While not cool in itself, it's not often that small mail shops contribute to the
+larger open source community.
+
+Check it out here - https://github.com/neilj/squire
