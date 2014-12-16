@@ -1,0 +1,57 @@
+Team Proposal 2
+
+Members
+
+Name            Email               Role
+Kocsen          kocsenc@gmail.com   Developer, Documenter
+Mihir           ms8303@rit.edu      Developer, Documenter
+
+Which project did your team choose?
+
+We decided to work on a Reddit client application that will interface with
+Reddit’s API to deliver content.
+
+2-liner description of the project?
+
+An application for the XO which will provide a native interface to the Reddit
+website and will include extra features like saving articles offline and
+managing subreddits, keeping in mind that internet access will not always be
+available.
+
+What will each team member's role be?
+
+See table above.
+
+Source Code Repository URL?
+
+https://github.com/citruspi/RedditXO
+
+List your upstream Mentor's below:
+
+threebean
+
+How will you communicate with them? (i.e. IRC Channel, Email Address, mail
+lists, issue trackers, etc...)
+
+IRC
+
+What are the easy parts?
+
+- Finding and interfacing with API’s
+- Extensive manual testing
+- Using Python
+
+What are the hard parts?
+
+- Architecting the application
+- Finding a robust way to create a GUI
+- Time restrictions
+
+How will you overcome both?
+
+We will divide and conquer. Understanding that some points are harder will show
+us that we have to work on it with a high priority. Documentation is important
+to make sure we don’t step on each others toes.
+
+And finally using awesome tools to help us get the data! (or write them
+ourselves).
