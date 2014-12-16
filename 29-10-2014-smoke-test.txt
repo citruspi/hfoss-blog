@@ -1,0 +1,37 @@
+Smoke Test
+
+Part of getting started with the XO OLPC's is running through the provided smoke
+test[0]. It's split into a couple sections, which have as many as thirty-eight
+steps.
+
+Start-up
+
+This was arguably the hardest part of the smoke test. Our battery was already in
+the device when we received it, but simply opening it seemed to be a Herculean
+task at first. After it opened, it successfully booted into Sugar.
+
+Try out a few Activities
+
+This section had us test that activities worked, the camera captured light, the
+microphone captured sound, the speakers produced audio, etc. Everything seemed
+to work but there was noticeable lag for some activities.
+
+Image Transferring and Invite
+
+The image transfer test worked but the invitation process took a little time to
+get working.
+
+Installing an Activity Bundle
+
+I headed to the wiki page on the Star Chart activity and downloaded the .xo
+file. It opened from the home view and ran fine.
+
+Playing an .ogg file in Browse
+
+Using DuckDuckGo, I found some classical music in the public domain online which
+was being distributed as an .ogg file. I played it and it was fine.
+
+Transfer Files to USB Stick
+
+I copied a couple files to a USB drive and unmounted it. I remounted it and the
+files appeared to persist.
