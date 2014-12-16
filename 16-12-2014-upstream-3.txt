@@ -1,0 +1,29 @@
+Upstream 3
+
+Status: v0.5.0b
+
+This upstream post isn't actually about a bugfix. It's actually about a project
+of mine, Spotify Notifications[0], and what it's taught me.
+
+Spotify Notifications isn't a complex application - to put it simply, it
+forwards notifications from the NSDistributedNotificationCenter to the default
+NSNotificationCenter.
+
+I wrote it because Spotify hadn't implemented the functionality themselves and
+other people also wanted it.
+
+I developed the first version over about a day. The same day I published it, it
+was featured on TheNextWeb. A couple months later it was nominated for a Webbie
+award.
+
+The project now has 135 stars on GitHub from people all around the world who I
+haven't met. I've responded to and dealt with 24 issues, of which 7 are still
+open. I've also dealt with 12 pull requests, all of which are closed.
+
+And that's just on the GitHub issue tracker. I've also responded to tweets,
+emails, etc. asking for issues to be fixed and new features to be implemented.
+
+Spotify Notifications has taught me a lot about open source and about being the
+steward of an open source project.
+
+[0] https://github.com/citruspi/Spotify-Notifications
