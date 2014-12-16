@@ -1,0 +1,9 @@
+No RHoK This Year
+
+This year, RIT didn't host a Random Hacks of Kindness hackathon in December. I
+was really looking forward to attending it after the fun I had last year, but
+apparently RHoK as a whole isn't doing so well[0].
+
+Hopefully next year we'll have RHoK back.
+
+[0] The website, rhok.org, doesn't even load
