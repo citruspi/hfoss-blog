@@ -1,0 +1,11 @@
+Syncthing
+
+For the past couple weeks I've been using Bittorent Sync to sync photos and
+configuration files between my laptop, desktop, and various servers.
+
+I've really enjoyed using it but I found another project called Syncthing. It's
+a open source sync service which runs on Windows, Linux, Mac, BSD, and Solaris.
+It also looks really easy to setup and use, so I'm planning on giving it a try.
+
+If I take a liking to it, perhaps I'll write an iOS client to complement the
+Android one.
