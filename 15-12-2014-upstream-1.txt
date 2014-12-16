@@ -1,0 +1,17 @@
+Upstream 1
+
+Status: Merged Upstream
+
+After my not-incredibly-technical bugfix which consisted of adding a license to
+a repository, I figured I'd get my hands dirty this time.
+
+A friend of mine, Tim Duffy, had posted a link to ticket system he was writing
+called bits. It sounded pretty interesting so I cloned it and got it running.
+
+Before logging in, I found an issue - the field type for the password was set to
+'text.' This meant that the password was clear text when being typed in.
+
+I submitted a pull request[0] fixing this error by setting the type to
+'password.' You can now rest easy knowing that the Internet is safe.
+
+[0] https://github.com/thequbit/bits/pull/2
