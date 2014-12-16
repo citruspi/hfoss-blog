@@ -1,0 +1,11 @@
+YHack
+
+YHack was the furthest hackathon I attended this year, since I didn't attend
+Hack the North.
+
+It was hosted at Yale University over Halloween which was really cool. I was
+disappointed by the number of attendees who were not in costume, but I can't
+really complain since I wasn't in costume myself.
+
+I ended up spending most of my time working on school work but I also worked on
+a server for managing SSH keys across multiple servers.
