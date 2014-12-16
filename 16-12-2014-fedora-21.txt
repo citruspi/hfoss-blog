@@ -1,0 +1,6 @@
+Fedora 21
+
+This December Fedora 21 was released to much fanfare. It brings around a lot
+of cool features which I'm excited to try out.
+
+Now I just need to wait for my local mirror to get the latest copy :)
