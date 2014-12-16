@@ -1,0 +1,10 @@
+Knight OS
+
+Based on what I saw while in middle school, high school, and college, Texas
+Instruments calculators are incredibly popular. In fact, they're so popular that
+people have written games, tools, etc. for them.
+
+One of the cooler projects I've seen is KnightOS, an operating system designed
+for calculators. Applications for the operating system can be written in
+Assembly or C. There's excellent documentation and a reachable community who can
+be found on IRC.
