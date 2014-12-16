@@ -1,0 +1,10 @@
+Bugfix
+
+Status: Merged Upstream
+
+The repository for the Hacks/Hackers Rochester group lacked a license. I opened
+an issue last April but nothing came out of it.
+
+Today I submitted a pull request[0] adding the MIT license to the repository.
+
+[0] https://github.com/hhroc/hhroc.github.com/pull/9
