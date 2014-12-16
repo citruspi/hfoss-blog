@@ -1,0 +1,13 @@
+Meetup 3
+
+On November 18th our class headed to RocPy for the monthly meetup.
+
+msoucy, ross, and threebean presented lighnting talks.
+
+For the module of the month, threebean presented itertools.
+
+The primary talk for the meetup concerned using other languages with Python. The
+talk focused on using C in Python programs and Python in C programs but it took
+a brief look at other languages like Objective-C.
+
+Unfortunately the talk was very dry and unexciting.
