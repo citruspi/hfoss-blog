@@ -1,0 +1,16 @@
+Upstream 2
+
+Status: Merged
+
+Reeling from my incredibly technical pull request fixing an HTML form, I figured
+I'd take it easy this time.
+
+After finding rossdylan's fabulous library, I stumbled upon ryansb's tremendous,
+a Python wrapper for fabulous. I noticed there was an extra parenthese in the
+sample code in the Readme, an error which would have caused users an extra
+second or two of frustration, before the error was caught by the interpreter or
+their linter.
+
+Well, fear not; I've submitted a pull request removing the extra parenthese[0].
+
+[0] https://github.com/ryansb/tremendous/pull/1
