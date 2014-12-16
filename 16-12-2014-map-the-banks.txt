@@ -1,0 +1,11 @@
+Map the Banks
+
+I stumbled upon a really cool project yesterday called Map the Banks.
+
+The project enlists the help of programmers to scrape financial websites and
+make the data publicly available. They create missions which have different
+levels of difficulty. Coders undertake missions by writing bots with the Turbot
+framework which scrap the data and upload it. They're then awarded points and
+ranked on the leaderboard.
+
+Checkout some of the missions - http://missions.opencorporates.com/campaigns/10
