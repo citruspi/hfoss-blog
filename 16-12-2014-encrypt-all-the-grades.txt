@@ -1,0 +1,46 @@
+Encrypt All the Grades!
+
+A copy of an issue I opened:
+
+    As a couple students mentioned last night, students aren't aware of their
+    grades. @decause does contact students who aren't doing well, and anyone who
+    he hasn't contacted is looking at a B or better, but there's still a lot of
+    uncertainty, especially with the introduction of the plus/minus system.
+
+    One solution would be to use MyCourses, but let's be honest, MyCourses is a
+    piece of shit.
+
+    I'd like to propose an alternative; GnuPG encrypted grades.
+
+    The idea is that as part of the First Flight assignment, students would
+    create a 4096[0] bit GnuPG key pair. There would be a class which would
+    cover GnuPG and it's usage. At the end of the class there would be a key
+    signing party.
+
+    Students' grades would be kept up to date and uploaded to the class website.
+    Each student's grade would encrypted, signed, and armored. Encrypted to make
+    sure that grades are confidential, signed to make sure grades are only
+    updated by @decause, and armored to make them viewable in the browser.
+
+    Perhaps @ryansb and @liam-middlebrook could add functionality to their
+    command line tool which would simplify the process of updating and
+    publishing grades. The publication of a student's grades in an unencrypted
+    format or the publication of @decause's private key would have dire
+    consequences - if the process could be automated[1] to prevent human error,
+    all the better.
+
+    In addition to the increase in transparency by allowing students to see how
+    they are doing in class, it would provide students with an introduction to
+    the usage of and best practices for GnuPG, an important tool in the police
+    state we're quickly approaching.
+
+    Any feedback is appreciated.
+
+    [0] Perhaps, for the AdvFOSS class, we could make it even more interesting.
+    In the class where GnuPG is covered, students would also learn to patch
+    GnuPG to increase the key size beyond 4096 bits and then recompile GnuPG.
+
+    [1] Aside, of course, from the entry of the passphrase for the private key,
+    because no one would create a private key without a passphrase, right?
+
+https://github.com/ryansb/ofCourse/issues/5    
