@@ -159,5 +159,11 @@
         <link>http://hfossblog.citruspi.io/16-12-2014-no-rhok-this-year.txt</link>
         <description></description>
     </item>
+    <item>
+        <pubDate>Mon, 16 Dec 2014 00:00:00 EST</pubDate>
+        <title>16-12-2014-syncthing</title>
+        <link>http://hfossblog.citruspi.io/16-12-2014-syncthing.txt</link>
+        <description></description>
+    </item>
 </channel>
 </rss>
