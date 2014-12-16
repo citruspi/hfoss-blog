@@ -1,0 +1,10 @@
+Brimir
+
+Brimir is a ticket management system for handling support requests via email.
+That in itself isn't particularly interesting - there are plenty of ticket
+management systems.
+
+The awesome thing about Brimir is that it's open source - you can run it
+yourself on your own systems without having to pay tribute to the cloud gods.
+
+The project is written in Ruby and uses Postgres as a backend.
